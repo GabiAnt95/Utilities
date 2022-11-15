@@ -1,0 +1,14 @@
+INSTRUCTIONS:
+
+FOLDER INPUTS --> Where you have to set the Excel to Split
+FOLDER Files --> Where the script is located
+
+Excel: Must be closed in order to allow the Script Access
+Excel: Data must be in a simple table (Columns with Headers, 
+	and rows). Beginning in A1
+Excel: There only must be ONE Excel inside INPUTS
+
+If everything works:
+	A Folder with the given name will be created below within THIS FOLDER:
+	At the same level of the Foders Files, INPUTS, Execuable and INSTRUCTIONS
+	Inside that folder you will have your outputs.
