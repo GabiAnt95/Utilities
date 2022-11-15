@@ -6,7 +6,7 @@ def split_col_by_unique_values(df, column, name_output_directory):
         
     '''
     
-    For a given DataFrame and Column, the output is in a folder, the same DataFrame splited in diferent Excels Files (One for each unique Value)
+    For a given DataFrame and Column, the output is, in a folder: the same DataFrame splited in diferent Excels Files (One for each unique Value)
     The task in Excel would be: 1) Having a column with 8 diferent values
                                 2) Filter by the first value, copy, paste and save
                                 3) Same for the remaining values
