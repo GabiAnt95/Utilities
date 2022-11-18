@@ -3,8 +3,8 @@
 With this script we get to split a given Excel by the unique
 values of a given column.
 
-For example, for a given Excel with 8 columns which one of them if "Country"
-where there are 5 Uniques Values: Spain, Jamaica, Belice, Guinea and Congo.
+For example, for a given Excel with 8 columns, being one of them "Country"
+where there are 5 Unique Values: Spain, Jamaica, Belice, Guinea and Congo.
 We will receive 5 Excels (One for each country) with the 8 columns 
 but only with the data of each country.
 
