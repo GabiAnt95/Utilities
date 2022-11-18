@@ -1,7 +1,7 @@
 		---------------- UTILITY -------------------
 
-With this script we get to split a given Excel by its unique
-values for a given column.
+With this script we get to split a given Excel by the unique
+values of a given column.
 
 For example, for a given Excel with 8 columns which one of them if "Country"
 where there are 5 Uniques Values: Spain, Jamaica, Belice, Guinea and Congo.
