@@ -31,6 +31,17 @@ Excel: Data must be in a simple table (Columns with Headers,
 	and rows). Beginning in A1
 Excel: There only must be ONE Excel inside INPUTS
 
+Once the Script is Executed, if everything goes good:
+
+     - It is going to request a name for the folder where the OUTPUTS will be saved
+       If the folder already Exists, nothing will change.
+       If it does not exists, it will be created at the same level of the Executable
+
+     - Finally, it will request you the name of the column which you want to split by.
+       You will see the list of columns you have available. You have to introduce the
+       name of the column exactly as it is written in the DataFrame (Case sensitive)
+
+
 ------------------------------------------------------------------------------
 
 Dudas a GabinoAntOrt95@gmail.com
